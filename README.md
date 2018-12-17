@@ -1,15 +1,15 @@
 # iDevRemotely2018-19 - Who am I? 
-### Add your profile 😎 
+### Add your profile ###
 
-**_Sample_**
 
-**Name:** Ismail Nurudeen (@elnuru247) <br>
-**Occupation:** Android Developer | Machine Learning Engineer <br>
-**Interests:** Robotics | IoT | Music | Psychology | Video gaming <br>
-**Role Model:** Sebastian Thrun <br>
-**Favorite Superhero:** Iron Man <br>
-**Favorite Quote:** "I set limits then I exceed them" <br>
-**The adjective that best describes me:** Funny <br>
+
+**Name:** Osuntoyinbo Micheal(@mosuntoyinbo) <br>
+**Occupation:** System Administrator | Web Designer <br>
+**Interests:** Actificial Intelligence | IoT | Software Developer |  <br>
+**Role Model:** Atobatele Abiodun <br>
+**Favorite Superhero:** Patrick Ilodianya <br>
+**Favorite Quote:** "Every problem has a solution" <br>
+**The adjective that best describes me:** Sensitive & Reserved <br>
 ___
 
 _// Yours goes here.._
